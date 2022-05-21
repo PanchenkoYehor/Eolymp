@@ -1,4 +1,4 @@
-#include "A.cpp"
+#include "B.cpp"
 
 int main() {
     Run();
